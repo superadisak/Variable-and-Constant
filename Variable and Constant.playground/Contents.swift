@@ -15,3 +15,11 @@ intNumber = 456
 // / Explicit  การประกาศตัวแปรแบบกำหนดค่า datatype
 let myConstanta: Int = 123 // ประกาศตัวแปรแบบไม่มีเศษ
 
+// Display con Console
+// Display only Value แสดงผลเฉพาะค่าอย่างเดียว
+print(intNumber)
+//การแสดง ข้อความพร้อมค่าที่เก็บไว้ในตัวแปร intNumber
+//Display String and Value
+print("intNumber ==> \(intNumber)")
+
+
